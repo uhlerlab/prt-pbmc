@@ -1,0 +1,8 @@
+results/
+__pycache__/
+temp_notebooks/
+tmp/
+sensitive/
+CLAUDE.md
+/memory
+scratch/

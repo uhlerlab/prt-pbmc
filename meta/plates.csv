@@ -1,0 +1,26 @@
+﻿Plate ID,Diagnosis,"Patient 
+samples","Multiplied by
+Time points","Technical 
+replicates","Total patient 
+samples","Healthy 
+samples","Technical
+replicates","Total healthy
+samples",Correction control,Technical replicates,"Total correction
+control samples","Total samples 
+per plate",Must include
+1,Glioblastoma,8,40,2,80,5,2,10,3,2,6,96,
+2,Glioblastoma,9,44,2,88,1,2,2,3,2,6,96,P16
+3,Head & Neck,9,44,2,88,4,2,8,0,2,0,96,P50
+4,Head & Neck,9,44,2,88,4,2,8,0,2,0,96,P137
+5,Head & Neck,9,44,2,88,4,2,8,0,2,0,96,P161
+6,Head & Neck,10,44,2,88,4,2,8,0,2,0,96,"P44, P106, P147"
+7,Meningioma group,9,44,2,88,4,2,8,0,2,0,96,P102
+8,Meningioma group,11,43,2,86,4,2,8,0,2,0,94,"P13, P17, P32, P36, P58, P65, P109, P27, P37"
+9,Meningioma group,9,44,2,80,4,2,8,0,2,0,88,"P39, P156, P64, P86 "
+10,Chordoma group,9,44,2,88,4,2,8,0,2,0,96,P144
+11,Chordoma group,9,44,2,88,4,2,8,0,2,0,96,P163
+12,Chordoma group,10,44,2,88,4,2,8,0,2,0,96,"P71, P73, P80, P82, P89, P95, P164, P155, P21"
+13,CNS-other group,9,44,2,88,4,2,8,0,2,0,96,
+14,CNS-other group,10,44,2,88,4,2,8,0,2,0,96,"P66, P91, P113, P19, P30, P35, P53, P54, P158, P167"
+15,Sarcoma-Ewing group,11,44,2,88,4,2,8,0,2,0,96,
+16,Sarcoma group,9,40,2,80,4,2,8,0,2,0,88,

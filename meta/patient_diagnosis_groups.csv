@@ -1,0 +1,208 @@
+patient,group
+P11,Sarcoma-Rhabdomyosarcoma
+P12,H&N cancer
+P13,Lymphoma
+P14,H&N cancer
+P15,CNS-Glioma
+P16,CNS-Glioma
+P17,Lymphoma
+P18,H&N cancer
+P19,CNS-Medulloblastoma
+P20,CNS-other
+P21,Chordoma/Chondrosarcoma
+P22,CNS-Glioma
+P23,Chordoma/Chondrosarcoma
+P24,H&N cancer
+P25,Chordoma/Chondrosarcoma
+P26,Sarcoma-Ewing
+P27,CNS-Meningioma
+P28,CNS-other
+P29,CNS-Glioma
+P30,CNS-Medulloblastoma
+P31,
+P32,Lymphoma
+P33,CNS-Meningioma
+P34,Sarcoma-Ewing
+P35,CNS-Medulloblastoma
+P36,Lymphoma
+P37,CNS-Meningioma
+P38,CNS-Meningioma
+P39,
+P40,
+P41,H&N cancer
+P42,CNS-Meningioma
+P43,Chordoma/Chondrosarcoma
+P44,H&N cancer
+P45,Sarcoma-other
+P46,CNS-Glioma
+P47,CNS-Glioma
+P48,CNS-Meningioma
+P49,Sarcoma-Neuroblastoma
+P50,H&N cancer
+P51,CNS-Glioma
+P52,CNS-Glioma
+P53,CNS-Medulloblastoma
+P54,CNS-Medulloblastoma
+P55,H&N cancer
+P56,H&N cancer
+P57,CNS-Glioma
+P58,Lymphoma
+P59,CNS-Meningioma
+P60,CNS-other
+P61,Sarcoma-Neuroblastoma
+P62,CNS-Meningioma
+P63,H&N cancer
+P64,
+P65,Lymphoma
+P66,CNS-other
+P67,H&N cancer
+P68,CNS-Glioma
+P69,Chordoma/Chondrosarcoma
+P70,CNS-Meningioma
+P71,CNS-Ependymoma
+P72,H&N cancer
+P73,CNS-Ependymoma
+P74,Sarcoma-Rhabdomyosarcoma
+P75,CNS-other
+P76,Chordoma/Chondrosarcoma
+P77,H&N cancer
+P78,H&N cancer
+P79,H&N cancer
+P80,CNS-Ependymoma
+P81,
+P82,CNS-Ependymoma
+P83,CNS-Meningioma
+P84,CNS-Glioma
+P85,Sarcoma-Ewing
+P86,CNS-Meningioma
+P87,CNS-other
+P88,
+P89,CNS-Ependymoma
+P90,Chordoma/Chondrosarcoma
+P91,CNS-other
+P92,Chordoma/Chondrosarcoma
+P93,
+P94,H&N cancer
+P95,CNS-Ependymoma
+P96,CNS-other
+P97,Sarcoma-Ewing
+P98,H&N cancer
+P99,Chordoma/Chondrosarcoma
+P100,H&N cancer
+P101,
+P102,CNS-Meningioma
+P103,Sarcoma-Ewing
+P104,CNS-Glioma
+P105,CNS-Meningioma
+P106,H&N cancer
+P107,H&N cancer
+P108,CNS-Glioma
+P109,Lymphoma
+P110,H&N cancer
+P111,CNS-other
+P112,Chordoma/Chondrosarcoma
+P113,CNS-other
+P114,H&N cancer
+P115,H&N cancer
+P116,CNS-Glioma
+P117,Sarcoma-other
+P118,Chordoma/Chondrosarcoma
+P119,CNS-Meningioma
+P120,H&N cancer
+P121,
+P122,
+P123,CNS-other
+P124,CNS-Glioma
+P125,H&N cancer
+P126,Chordoma/Chondrosarcoma
+P127,CNS-other
+P128,CNS-Meningioma
+P129,H&N cancer
+P130,H&N cancer
+P131,Chordoma/Chondrosarcoma
+P132,CNS-Glioma
+P133,CNS-Meningioma
+P134,CNS-Meningioma
+P135,H&N cancer
+P136,Sarcoma-other
+P137,H&N cancer
+P138,Chordoma/Chondrosarcoma
+P139,Sarcoma-Rhabdomyosarcoma
+P140,Sarcoma-Ewing
+P141,
+P142,H&N cancer
+P143,Chordoma/Chondrosarcoma
+P144,Chordoma/Chondrosarcoma
+P145,H&N cancer
+P146,Sarcoma-Ewing
+P147,H&N cancer
+P148,H&N cancer
+P149,H&N cancer
+P150,CNS-Glioma
+P151,Sarcoma-Rhabdomyosarcoma
+P152,Chordoma/Chondrosarcoma
+P153,
+P154,H&N cancer
+P155,Chordoma/Chondrosarcoma
+P156,
+P157,CNS-Meningioma
+P158,CNS-Medulloblastoma
+P159,Sarcoma-Ewing
+P160,Chordoma/Chondrosarcoma
+P161,H&N cancer
+P162,CNS-Meningioma
+P163,Chordoma/Chondrosarcoma
+P164,CNS-Ependymoma
+P165,Chordoma/Chondrosarcoma
+P166,H&N cancer
+P167,CNS-Medulloblastoma
+H01,healthy
+H02,healthy
+H03,healthy
+H04,healthy
+H05,healthy
+H06,healthy
+H07,healthy
+H08,healthy
+H09,healthy
+H10,healthy
+H11,healthy
+H12,healthy
+H13,healthy
+H14,healthy
+H15,healthy
+H16,healthy
+H17,healthy
+H18,healthy
+H19,healthy
+H20,healthy
+H21,healthy
+H22,healthy
+H23,healthy
+H24,healthy
+H25,healthy
+H26,healthy
+H27,healthy
+H28,healthy
+H29,healthy
+H30,healthy
+H31,healthy
+H32,healthy
+H33,healthy
+H34,healthy
+H35,healthy
+H36,healthy
+H37,healthy
+H38,healthy
+H39,healthy
+H40,healthy
+H41,healthy
+H42,healthy
+H43,healthy
+H44,healthy
+H45,healthy
+H46,healthy
+H47,healthy
+H48,healthy
+H49,healthy
+H50,healthy
