@@ -1,0 +1,7 @@
+python3 scripts/randomize_plate_layout.py -d 'Glioblastoma' -s '1_CNS-Glioblastoma'
+python3 scripts/randomize_plate_layout.py -d 'Head & Neck' -s '2_H&N_cancer'
+python3 scripts/randomize_plate_layout.py -d 'Meningioma group' -s '3_CNS-Meningioma' '7_Lymphoma' '14_Other'
+python3 scripts/randomize_plate_layout.py -d 'Chordoma group' -s '4_Chordoma_Chondrosarcoma' '8_CNS-Ependymoma'
+python3 scripts/randomize_plate_layout.py -d 'CNS-other group' -s '5_CNS-other' '9_CNS-Medulloblastoma'
+python3 scripts/randomize_plate_layout.py -d 'Sarcoma-Ewing group' -s '6_Sarcoma-Ewing' '13_Other'
+python3 scripts/randomize_plate_layout.py -d 'Sarcoma group' -s '10_Sarcoma-Rhabdomyosarcoma' '11_Sarcoma-other' '12_Sarcoma-Neuroblastoma'
