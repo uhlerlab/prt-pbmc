@@ -63,8 +63,20 @@ the requirements above:
 We developed this code on a machine running Rocky Linux 8.8 (Green Obsidian) and equipped with an NVIDIA RTX A6000 GPU.
 
 ## Citation
-```
-TODO
+
+If you use this code or data, please cite:
+
+Schlüter, H. M., Sornapudi, T. R., Leiser, D., Koller, S., Karavelioglu, Z., Uhler, C., & Shivashankar, G. V. Deep learning-based analysis reveals patient-level cancer therapy trajectories using single-cell PBMC chromatin images. *Scientific Reports* (2026). https://doi.org/10.1038/s41598-026-74792-x
+
+```bibtex
+@article{schluter2026deep,
+  title   = {Deep learning-based analysis reveals patient-level cancer therapy trajectories using single-cell {PBMC} chromatin images},
+  author  = {Schl{\"u}ter, Hannah M. and Sornapudi, Trinadha Rao and Leiser, Dominic and Koller, Sandra and Karavelioglu, Zeynep and Uhler, Caroline and Shivashankar, G. V.},
+  journal = {Scientific Reports},
+  year    = {2026},
+  doi     = {10.1038/s41598-026-74792-x},
+  url     = {https://www.nature.com/articles/s41598-026-74792-x}
+}
 ```
 
 ---
